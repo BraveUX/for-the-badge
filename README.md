@@ -208,3 +208,6 @@ If submitting a badge svg, please abide by the following guidelines
 * It's not a lie if you believe it
 * Not an issue
 * 0% Optimized
+* Dance Dance
+* Not Tricks, Illusions
+* Made in WordPad
