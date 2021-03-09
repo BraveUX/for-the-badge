@@ -34,7 +34,7 @@ If submitting a badge svg, please abide by the following guidelines
 
 ### Badge List
 
-**Last updated:** `September 9, 2020`.
+**Last updated:** `January 25, 2020`.
 
 ###### Ages
 
@@ -53,6 +53,8 @@ If submitting a badge svg, please abide by the following guidelines
 ###### Built For
 
 * Android \*
+* You
+* Pogchamps
 
 ###### Built With
 
@@ -63,6 +65,7 @@ If submitting a badge svg, please abide by the following guidelines
 * Swag
 * Wordpress
 * Gramma's recipe
+* Experience
 
 ###### Creative Commons
 
@@ -109,6 +112,7 @@ If submitting a badge svg, please abide by the following guidelines
 * Microsoft Paint
 * Etch a Sketch
 * Inkscape \*
+* Figma \*
 
 ###### Fo
 
@@ -148,6 +152,13 @@ If submitting a badge svg, please abide by the following guidelines
 * Erlang
 * Reason
 
+###### May contain
+
+* Code
+* Cutness
+* Fun
+* Nothing
+
 ###### Powered By
 
 * Case Western Reserve
@@ -168,6 +179,7 @@ If submitting a badge svg, please abide by the following guidelines
 * Black Magic
 * Energy Drinks
 * Overtime
+* Linux \*
 
 ###### Approved By
 
@@ -217,3 +229,4 @@ If submitting a badge svg, please abide by the following guidelines
 * It Works. Why?
 * Open Source
 * CTRL + C CTRL + V
+* CTRL + X CTRL + V
